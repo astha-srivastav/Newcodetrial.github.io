@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TRIAL</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="header_container">
+        <div class="logo_container">
+          <h2>Elite&Cole</h2>
+        </div>
+        <div class="search_interface">
+          <div class="search_bar">
+            <input
+              type="search"
+              class="input_box"
+              id="input_search"
+              placeholder="search about , blogs & more"
+            />
+          </div>
+          <div class="search_button_holder">
+            <button type="button">search</button>
+          </div>
+        </div>
+        <div class="navbar_container">
+          <nav aria-label="main navigation website navigation bar">
+            <ul>
+              <li class="main_navbar" id="home">HOME</li>
+              <li class="main_navbar" id="contact">CONTACT</li>
+              <li class="main_navbar" id="about">ABOUT</li>
+              <li class="main_navbar" id="feedback">FEEDBACK</li>
+              <li class="main_navbar" id="more">MORE</li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <hr />
+    <main>
+      <div class="main_content_holder">
+        <div class="summary_intro_holder">
+          <div class="intro_pic_holder">
+            <div class="intro_pic_words">
+              <h2>Elite & Cole</h2>
+              <h3>We Bring You The Best</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <hr />
+    <footer>
+      <div class="footer_col_holder">
+        <section class="foot_sec" id="foot_sec_1">
+          <h4>QUICK LINKS</h4>
+          <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">BOOK NOW</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">FEEDBACK</a></li>
+            <li><a href="#">CONTACT</a></li>
+            <li><a href="#">MESSAGE US</a></li>
+          </ul>
+        </section>
+        <section class="foot_sec" id="foot_sec_2">
+          <h4>BE ONE OF US</h4>
+          <ul>
+            <li><a href="#">WE ARE HIRING !</a></li>
+            <li><a href="#">JOIN A CAMPAIGN</a></li>
+            <li><a href="#">AFFILIATE PROGRAM</a></li>
+            <li><a href="#">BECOME A MEMBER</a></li>
+            <li><a href="#">OPEN POSITIONS</a></li>
+            <li><a href="#">REMOTE JOBS</a></li>
+          </ul>
+        </section>
+        <section class="foot_sec" id="foot_sec_2">
+          <h4>WHERE WE APPEARED</h4>
+          <ul>
+            <li><a href="#">BLOGS & ARTICLES</a></li>
+            <li><a href="#">FEATURED IN</a></li>
+            <li><a href="#">POSTS</a></li>
+            <li><a href="#">NEWS</a></li>
+            <li><a href="#">INTERVIEWS</a></li>
+            <li><a href="#">MAGAZINE</a></li>
+          </ul>
+        </section>
+      </div>
+      <div class="footer_find_us_holder">
+        <div class="foot_find_heading_holder">
+          <h3>ALSO FIND US ON :</h3>
+        </div>
+        <div class="find_us_options">
+          <ul>
+            <li><a href="#" class="insta">INSTAGRAM</a></li>
+            <li><a href="#" class="fb">FACEBOOK</a></li>
+            <li><a href="#" class="twitter">X</a></li>
+            <li><a href="#" class="whatsapp">WHATSAPP</a></li>
+            <li><a href="#" class="telegram">TELEGRAM</a></li>
+            <li><a href="#" class="yt">YOUTUBE</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
